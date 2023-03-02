@@ -1,16 +1,22 @@
 # tg-tool-by-trkn
 
 ```markdown
-git clone https://github.com/trhacknon/tg-tool-by-trkn.git
+git clone https://github.com/trhacknon/tg-tool.git
 ```
 
 ```markdown
-cd tg-tool-by-trkn
+cd tg-tool
 ```
 
 ```markdown
 pip3 install -r requirements.txt
 ```
+
+```markdown
+php tg.php
+```
+
+
 ```markdown
 python3 tg.py
 ```
